@@ -1,0 +1,4 @@
+Insert
+1 2 3 4 5
+Traverse
+1 2 3 4 5
